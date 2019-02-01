@@ -1,9 +1,6 @@
-/**
- * @author ckerr
- *
- */
+
 module browserAutomation{
 
-  requires transitive selenium.firefox.driver;
+  requires selenium.firefox.driver;
 
 }
